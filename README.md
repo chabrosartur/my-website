@@ -2,6 +2,4 @@
 
 awesome website!
 
-update for branch "update-readme"
-
-update locally
+Updates done on main in github
